@@ -1,0 +1,700 @@
+zip,city,county,pop
+30044,Lawrenceville,Gwinnett,93987
+30043,Lawrenceville,Gwinnett,88276
+30024,Suwanee,Gwinnett,80598
+30349,Atlanta,Fulton,75647
+30040,Cumming,Forsyth,72858
+30041,Cumming,Forsyth,71750
+30127,Powder Springs,Cobb,71709
+30281,Stockbridge,Henry,70098
+30052,Loganville,Gwinnett,69518
+30022,Alpharetta,Fulton,69135
+30047,Lilburn,Gwinnett,68700
+30096,Duluth,Gwinnett,68570
+30135,Douglasville,Douglas,67853
+30004,Alpharetta,Fulton,66538
+30331,Atlanta,Fulton,65996
+30062,Marietta,Cobb,63906
+30188,Woodstock,Cherokee,63869
+30058,Lithonia,Dekalb,61247
+30263,Newnan,Coweta,60769
+30906,Augusta,Richmond,60200
+30083,Stone Mountain,Dekalb,59798
+30144,Kennesaw,Cobb,59085
+30101,Acworth,Cobb,58844
+30080,Smyrna,Cobb,58806
+31907,Columbus,Muscogee,58615
+31419,Savannah,Chatham,58483
+30066,Marietta,Cobb,57953
+30253,Mcdonough,Henry,57889
+30318,Atlanta,Fulton,57136
+31088,Warner Robins,Houston,57063
+30114,Canton,Cherokee,57013
+30016,Covington,Newton,56934
+30075,Roswell,Fulton,55945
+30518,Buford,Gwinnett,54832
+30093,Norcross,Gwinnett,53896
+30236,Jonesboro,Clayton,53224
+30721,Dalton,Whitfield,52658
+30907,Augusta,Richmond,51428
+30809,Evans,Columbia,50288
+30519,Buford,Gwinnett,49986
+30064,Marietta,Cobb,49849
+30157,Dallas,Paulding,48446
+30019,Dacula,Gwinnett,48443
+30458,Statesboro,Bulloch,47890
+30132,Dallas,Paulding,47378
+30032,Decatur,Dekalb,47267
+30252,Mcdonough,Henry,47005
+30076,Roswell,Fulton,46739
+30039,Snellville,Gwinnett,46640
+30067,Marietta,Cobb,46482
+30045,Lawrenceville,Gwinnett,46088
+30034,Decatur,Dekalb,45968
+30097,Duluth,Gwinnett,45894
+30680,Winder,Barrow,45852
+30606,Athens,Clarke,45698
+30813,Grovetown,Columbia,45485
+30319,Atlanta,Dekalb,45135
+30115,Canton,Cherokee,44811
+30152,Kennesaw,Cobb,44115
+30506,Gainesville,Hall,43974
+30228,Hampton,Henry,43753
+30736,Ringgold,Catoosa,43639
+30134,Douglasville,Douglas,43504
+30126,Mableton,Cobb,42794
+31061,Milledgeville,Baldwin,42625
+30102,Acworth,Cobb,42232
+30701,Calhoun,Gordon,42050
+30815,Hephzibah,Richmond,41590
+30605,Athens,Clarke,41388
+31313,Hinesville,Liberty,41378
+30294,Ellenwood,Clayton,41096
+30909,Augusta,Richmond,40595
+30165,Rome,Floyd,40349
+30005,Alpharetta,Fulton,40213
+30060,Marietta,Cobb,40055
+30120,Cartersville,Bartow,40008
+30038,Lithonia,Dekalb,39543
+30189,Woodstock,Cherokee,39522
+30014,Covington,Newton,39352
+30238,Jonesboro,Clayton,39310
+30350,Atlanta,Dekalb,38785
+30328,Atlanta,Fulton,38685
+31909,Columbus,Muscogee,38486
+30078,Snellville,Gwinnett,38472
+30087,Stone Mountain,Dekalb,38304
+30180,Villa Rica,Carroll,38203
+30213,Fairburn,Fulton,37948
+31405,Savannah,Chatham,37929
+30046,Lawrenceville,Gwinnett,37919
+30084,Tucker,Dekalb,37354
+30092,Norcross,Gwinnett,37025
+30215,Fayetteville,Fayette,36953
+30223,Griffin,Spalding,36797
+30269,Peachtree City,Fayette,36578
+30542,Flowery Branch,Hall,36450
+30315,Atlanta,Fulton,36296
+31602,Valdosta,Lowndes,35916
+30338,Atlanta,Fulton,35680
+30311,Atlanta,Fulton,35523
+30161,Rome,Floyd,35344
+30117,Carrollton,Carroll,35097
+31406,Savannah,Chatham,35073
+30008,Marietta,Cobb,34709
+30265,Newnan,Coweta,34596
+30274,Riverdale,Clayton,34426
+30705,Chatsworth,Murray,34072
+30316,Atlanta,Fulton,33832
+31210,Macon,Bibb,33647
+31404,Savannah,Chatham,33597
+30068,Marietta,Cobb,32798
+30033,Decatur,Dekalb,32782
+30501,Gainesville,Hall,32652
+30094,Conyers,Rockdale,32359
+31705,Albany,Dougherty,32290
+30344,Atlanta,Fulton,32155
+30341,Atlanta,Dekalb,32134
+31904,Columbus,Muscogee,32087
+30030,Decatur,Dekalb,31856
+30342,Atlanta,Fulton,31828
+31601,Valdosta,Lowndes,31652
+30012,Conyers,Rockdale,31427
+30507,Gainesville,Hall,31290
+30240,Lagrange,Troup,31223
+31204,Macon,Bibb,31055
+30534,Dawsonville,Dawson,30848
+31525,Brunswick,Glynn,30780
+30088,Stone Mountain,Dekalb,30760
+30028,Cumming,Forsyth,30609
+30214,Fayetteville,Fayette,30232
+30340,Atlanta,Dekalb,29069
+30324,Atlanta,Fulton,28654
+30310,Atlanta,Fulton,28597
+30741,Rossville,Walker,28592
+30297,Forest Park,Clayton,28503
+30549,Jefferson,Jackson,28195
+30720,Dalton,Whitfield,28067
+31794,Tifton,Tift,27918
+30248,Locust Grove,Henry,27747
+30533,Dahlonega,Lumpkin,27738
+30122,Lithia Springs,Douglas,27580
+30296,Riverdale,Clayton,27579
+31021,Dublin,Laurens,27503
+30504,Gainesville,Hall,27242
+30260,Morrow,Clayton,27183
+31324,Richmond Hill,Bryan,27155
+30224,Griffin,Spalding,27139
+30904,Augusta,Richmond,27136
+30329,Atlanta,Dekalb,26980
+30141,Hiram,Paulding,26494
+30082,Smyrna,Cobb,26442
+31322,Pooler,Chatham,26119
+30655,Monroe,Walton,25876
+30071,Norcross,Gwinnett,25865
+30309,Atlanta,Fulton,25852
+30345,Atlanta,Dekalb,25777
+30314,Atlanta,Fulton,25752
+31093,Warner Robins,Houston,25488
+30339,Atlanta,Fulton,25318
+30121,Cartersville,Bartow,25309
+30013,Conyers,Rockdale,25218
+30528,Cleveland,White,25149
+30305,Atlanta,Fulton,25139
+31206,Macon,Bibb,24983
+30168,Austell,Cobb,24936
+30306,Atlanta,Fulton,24915
+31410,Savannah,Chatham,24626
+30233,Jackson,Butts,24398
+31763,Leesburg,Lee,24307
+30021,Clarkston,Dekalb,24138
+31605,Valdosta,Lowndes,23955
+30312,Atlanta,Fulton,23921
+30116,Carrollton,Carroll,23886
+30125,Cedartown,Polk,23793
+30017,Grayson,Gwinnett,23788
+31707,Albany,Dougherty,23645
+30241,Lagrange,Troup,23449
+30601,Athens,Clarke,23390
+30277,Sharpsburg,Coweta,23365
+30035,Decatur,Dekalb,23087
+30327,Atlanta,Fulton,23059
+31520,Brunswick,Glynn,22783
+30143,Jasper,Pickens,22726
+30512,Blairsville,Union,22646
+30291,Union City,Fulton,22636
+31792,Thomasville,Thomas,22458
+30106,Austell,Cobb,22433
+30286,Thomaston,Upson,22270
+30577,Toccoa,Stephens,22261
+31558,Saint Marys,Camden,22237
+31768,Moultrie,Colquitt,22212
+31548,Kingsland,Camden,21858
+31312,Guyton,Effingham,21762
+31326,Rincon,Effingham,21722
+31015,Cordele,Crisp,21224
+31024,Eatonton,Putnam,20792
+30308,Atlanta,Fulton,20438
+30307,Atlanta,Fulton,20337
+31069,Perry,Houston,20207
+30728,La Fayette,Walker,20183
+31906,Columbus,Muscogee,20114
+31503,Waycross,Ware,20043
+30548,Hoschton,Jackson,19828
+31008,Byron,Peach,19824
+30540,Ellijay,Gilmer,19732
+31401,Savannah,Chatham,19580
+31701,Albany,Dougherty,18886
+30677,Watkinsville,Oconee,18770
+30009,Alpharetta,Fulton,18625
+31005,Bonaire,Houston,18336
+30276,Senoia,Coweta,18128
+31533,Douglas,Coffee,18050
+31750,Fitzgerald,Ben Hill,17959
+30153,Rockmart,Polk,17906
+31905,Fort Benning,Muscogee,17867
+31903,Columbus,Muscogee,17796
+31030,Fort Valley,Peach,17691
+31216,Macon,Bibb,17267
+30011,Auburn,Barrow,17265
+30707,Chickamauga,Walker,17145
+31217,Macon,Bibb,17044
+30474,Vidalia,Toombs,16892
+30824,Thomson,Mcduffie,16866
+31522,Saint Simons Island,Glynn,16777
+30179,Temple,Carroll,16763
+30354,Atlanta,Fulton,16660
+30656,Monroe,Walton,16582
+31029,Forsyth,Monroe,16467
+30901,Augusta,Richmond,16394
+31501,Waycross,Ware,16265
+30360,Atlanta,Dekalb,16099
+30517,Braselton,Jackson,16070
+31513,Baxley,Appling,15950
+31545,Jesup,Wayne,15949
+30747,Summerville,Chattooga,15807
+31047,Kathleen,Houston,15750
+30273,Rex,Clayton,15720
+31709,Americus,Sumter,15509
+30643,Hartwell,Hart,15487
+31032,Gray,Jones,15324
+30103,Adairsville,Bartow,15246
+31220,Macon,Bibb,15230
+30635,Elberton,Elbert,15200
+31516,Blackshear,Pierce,15052
+30461,Statesboro,Bulloch,15034
+31539,Hazlehurst,Jeff Davis,14796
+31211,Macon,Bibb,14602
+30110,Bremen,Haralson,14232
+30107,Ball Ground,Cherokee,14083
+31023,Eastman,Dodge,14079
+30620,Bethlehem,Barrow,14027
+31407,Savannah,Chatham,14010
+30317,Atlanta,Fulton,13959
+30204,Barnesville,Lamar,13735
+31316,Ludowici,Long,13732
+30401,Swainsboro,Emanuel,13708
+30830,Waynesboro,Burke,13544
+31523,Brunswick,Glynn,13450
+31632,Hahira,Lowndes,13408
+31014,Cochran,Bleckley,13404
+30337,Atlanta,Fulton,13309
+30642,Greensboro,Greene,13104
+30622,Bogart,Oconee,13073
+30427,Glennville,Tattnall,12771
+31415,Savannah,Chatham,12706
+30513,Blue Ridge,Fannin,12504
+31036,Hawkinsville,Pulaski,12236
+30523,Clarkesville,Habersham,12099
+30529,Commerce,Jackson,12098
+30436,Lyons,Toombs,12039
+30650,Madison,Morgan,11971
+30054,Oxford,Newton,11867
+31820,Midland,Muscogee,11832
+30467,Sylvania,Screven,11764
+30313,Atlanta,Fulton,11761
+31791,Sylvester,Worth,11485
+31620,Adel,Cook,11272
+31535,Douglas,Coffee,11257
+31757,Thomasville,Thomas,10977
+31329,Springfield,Effingham,10831
+30531,Cornelia,Habersham,10809
+30439,Metter,Candler,10795
+30025,Social Circle,Walton,10689
+30453,Reidsville,Tattnall,10627
+31639,Nashville,Berrien,10606
+31636,Lake Park,Lowndes,10585
+31537,Folkston,Charlton,10559
+31408,Savannah,Chatham,10554
+30417,Claxton,Evans,10487
+30607,Athens,Clarke,10475
+31779,Pelham,Mitchell,10338
+30288,Conley,Dekalb,10181
+30755,Tunnel Hill,Whitfield,10108
+30268,Palmetto,Fulton,10099
+31082,Sandersville,Washington,10061
+30230,Hogansville,Troup,9727
+31510,Alma,Bacon,9658
+30666,Statham,Barrow,9622
+30217,Franklin,Heard,9595
+31064,Monticello,Jasper,9469
+30814,Harlem,Columbia,9342
+31027,Dublin,Laurens,9264
+30510,Alto,Habersham,9136
+31808,Fortson,Muscogee,9077
+31793,Tifton,Tift,9029
+31411,Savannah,Chatham,8993
+31052,Lizella,Crawford,8837
+30145,Kingston,Bartow,8807
+30662,Royston,Franklin,8779
+30633,Danielsville,Madison,8776
+30290,Tyrone,Fayette,8706
+30752,Trenton,Dade,8638
+31087,Sparta,Hancock,8608
+30740,Rocky Face,Whitfield,8584
+31546,Jesup,Wayne,8555
+30108,Bowdon,Carroll,8494
+30554,Lula,Hall,8486
+31643,Quitman,Brooks,8442
+31315,Fort Stewart,Liberty,8387
+30442,Millen,Jenkins,8239
+31308,Ellabell,Bryan,8111
+31331,Townsend,Mcintosh,8079
+30553,Lavonia,Franklin,8041
+31055,Mc Rae,Telfair,8005
+31201,Macon,Bibb,7937
+31730,Camilla,Mitchell,7836
+31554,Nicholls,Coffee,7803
+30817,Lincolnton,Lincoln,7775
+30566,Oakwood,Hall,7741
+31320,Midway,Liberty,7627
+31771,Norman Park,Colquitt,7626
+30535,Demorest,Habersham,7607
+30546,Hiawassee,Towns,7596
+30905,Augusta,Richmond,7594
+31321,Pembroke,Bryan,7576
+31096,Wrightsville,Johnson,7552
+31302,Bloomingdale,Chatham,7540
+30525,Clayton,Rabun,7515
+30530,Commerce,Jackson,7475
+30742,Fort Oglethorpe,Catoosa,7374
+30710,Cohutta,Whitfield,7297
+31031,Gordon,Wilkinson,7251
+30628,Colbert,Madison,7241
+30176,Tallapoosa,Haralson,7221
+30683,Winterville,Clarke,7192
+30187,Winston,Douglas,7123
+30753,Trion,Chattooga,7016
+31635,Lakeland,Lanier,6961
+30646,Hull,Madison,6893
+31833,West Point,Troup,6883
+30303,Atlanta,Fulton,6840
+30739,Rock Spring,Walker,6773
+30183,Waleska,Cherokee,6772
+30673,Washington,Wilkes,6726
+31028,Centerville,Houston,6673
+30326,Atlanta,Fulton,6643
+30735,Resaca,Gordon,6631
+30184,White,Bartow,6535
+31774,Ocilla,Irwin,6452
+31092,Vienna,Dooly,6423
+30563,Mount Airy,Habersham,6274
+30415,Brooklet,Bulloch,6272
+30802,Appling,Columbia,6243
+30220,Grantville,Coweta,6216
+31811,Hamilton,Harris,6204
+31822,Pine Mountain,Harris,6166
+30113,Buchanan,Haralson,6152
+31804,Cataula,Harris,6151
+31901,Columbus,Muscogee,6150
+31305,Darien,Mcintosh,6039
+30543,Gillsville,Hall,5939
+30002,Avondale Estates,Dekalb,5902
+30147,Lindale,Floyd,5901
+31569,Woodbine,Camden,5814
+30621,Bishop,Oconee,5794
+30457,Soperton,Treutlen,5697
+30173,Silver Creek,Floyd,5679
+31714,Ashburn,Turner,5644
+30292,Williamson,Pike,5631
+30104,Aragon,Polk,5552
+30175,Talking Rock,Pickens,5526
+31816,Manchester,Meriwether,5510
+30520,Canon,Franklin,5418
+31803,Buena Vista,Marion,5367
+30558,Maysville,Banks,5240
+30411,Alamo,Wheeler,5205
+31634,Homerville,Clinch,5179
+31806,Ellaville,Schley,5135
+30557,Martin,Stephens,5112
+30434,Louisville,Jefferson,5017
+30346,Atlanta,Dekalb,5008
+31063,Montezuma,Macon,4954
+31068,Oglethorpe,Macon,4950
+31645,Ray City,Berrien,4904
+30629,Comer,Madison,4817
+30559,Mineral Bluff,Fannin,4751
+30295,Zebulon,Pike,4750
+30565,Nicholson,Jackson,4731
+30725,Flintstone,Walker,4731
+30582,Young Harris,Towns,4706
+30521,Carnesville,Franklin,4683
+31642,Pearson,Atkinson,4676
+31566,Waynesville,Brantley,4638
+30185,Whitesburg,Carroll,4578
+30808,Dearing,Mcduffie,4561
+31543,Hortense,Brantley,4549
+30560,Morganton,Fannin,4544
+31006,Butler,Taylor,4523
+31553,Nahunta,Brantley,4520
+30471,Twin City,Emanuel,4490
+31091,Unadilla,Dooly,4347
+31001,Abbeville,Wilcox,4323
+31773,Ochlocknee,Thomas,4245
+30750,Lookout Mountain,Walker,4148
+30139,Fairmount,Gordon,4147
+30222,Greenville,Meriwether,4101
+30571,Sautee Nacoochee,White,4069
+30257,Milner,Lamar,4024
+31089,Tennille,Washington,4021
+31650,Willacoochee,Atkinson,3999
+31815,Lumpkin,Stewart,3949
+30828,Warrenton,Warren,3927
+31301,Allenhurst,Liberty,3906
+30833,Wrens,Jefferson,3888
+30079,Scottdale,Dekalb,3846
+30511,Baldwin,Banks,3831
+31098,Warner Robins,Houston,3809
+30445,Mount Vernon,Montgomery,3797
+30055,Mansfield,Jasper,3788
+30206,Concord,Pike,3763
+30711,Crandall,Murray,3757
+30527,Clermont,Hall,3701
+30564,Murrayville,Hall,3696
+31046,Juliette,Monroe,3694
+30259,Moreland,Coweta,3674
+31037,Helena,Telfair,3584
+31647,Sparks,Cook,3571
+30567,Pendergrass,Jackson,3565
+30738,Rising Fawn,Dade,3509
+30663,Rutledge,Morgan,3463
+31519,Broxton,Coffee,3462
+31328,Tybee Island,Chatham,3419
+30734,Ranger,Gordon,3418
+31557,Patterson,Pierce,3316
+31626,Boston,Thomas,3274
+31002,Adrian,Emanuel,3267
+30547,Homer,Banks,3266
+31078,Roberta,Crawford,3203
+31606,Valdosta,Lowndes,3196
+30182,Waco,Haralson,3178
+30258,Molena,Pike,3165
+30332,Atlanta,Fulton,3162
+30205,Brooks,Fayette,3147
+30602,Athens,Clarke,3127
+31775,Omega,Tift,3121
+30576,Tiger,Rabun,3104
+31801,Box Springs,Talbot,3068
+30124,Cave Spring,Floyd,3048
+30648,Lexington,Oglethorpe,3028
+30178,Taylorsville,Bartow,3024
+30624,Bowman,Elbert,3016
+31044,Jeffersonville,Twiggs,2986
+30170,Roopville,Carroll,2986
+30669,Union Point,Greene,2959
+31831,Waverly Hall,Harris,2951
+30421,Collins,Tattnall,2945
+31018,Davisboro,Washington,2906
+30171,Rydal,Bartow,2893
+31076,Reynolds,Taylor,2867
+31075,Rentz,Laurens,2834
+30256,Meansville,Pike,2819
+31716,Baconton,Mitchell,2817
+31560,Screven,Wayne,2806
+30428,Glenwood,Wheeler,2804
+30538,Eastanollee,Stephens,2799
+31805,Cusseta,Chattahoochee,2790
+30477,Wadley,Jefferson,2779
+31749,Enigma,Berrien,2764
+31744,Doerun,Colquitt,2763
+31637,Lenox,Cook,2726
+31079,Rochelle,Wilcox,2705
+31012,Chester,Dodge,2703
+30731,Menlo,Chattooga,2655
+31542,Hoboken,Brantley,2645
+30516,Bowersville,Hart,2634
+31019,Dexter,Laurens,2622
+31549,Lumber City,Telfair,2590
+30625,Buckhead,Morgan,2582
+31765,Meigs,Thomas,2577
+30056,Newborn,Newton,2518
+30473,Uvalda,Montgomery,2504
+30627,Carlton,Madison,2490
+31807,Ellerslie,Harris,2489
+30293,Woodbury,Meriwether,2482
+31825,Richland,Stewart,2471
+30555,Mc Caysville,Fannin,2443
+31555,Odum,Wayne,2428
+30630,Crawford,Oglethorpe,2407
+30805,Blythe,Richmond,2397
+30609,Athens,Clarke,2394
+31830,Warm Springs,Meriwether,2354
+31303,Clyo,Effingham,2348
+30322,Atlanta,Dekalb,2308
+31033,Haddock,Jones,2287
+31778,Pavo,Thomas,2262
+31565,Waverly,Camden,2236
+31738,Coolidge,Thomas,2232
+31790,Sycamore,Turner,2181
+30733,Plainville,Gordon,2171
+31827,Talbotton,Talbot,2152
+30634,Dewy Rose,Elbert,2148
+30456,Sardis,Burke,2146
+30218,Gay,Meriwether,2134
+30757,Wildwood,Dade,2131
+30118,Carrollton,Carroll,2118
+30216,Flovilla,Butts,2112
+30810,Gibson,Glascock,2096
+31781,Poulan,Worth,2084
+31826,Shiloh,Harris,2065
+30137,Emerson,Bartow,2060
+31060,Milan,Telfair,2056
+31057,Marshallville,Macon,2048
+31622,Alapaha,Berrien,2021
+30816,Keysville,Burke,2018
+31780,Plains,Sumter,1990
+30149,Mount Berry,Floyd,1966
+30105,Armuchee,Floyd,1947
+30730,Lyerly,Chattooga,1902
+30450,Portal,Bulloch,1882
+30251,Luthersville,Meriwether,1882
+30641,Good Hope,Walton,1859
+31764,Leslie,Sumter,1844
+30668,Tignall,Wilkes,1836
+31016,Culloden,Monroe,1832
+30410,Ailey,Montgomery,1821
+31795,Ty Ty,Tift,1808
+31641,Naylor,Lowndes,1805
+30441,Midville,Burke,1803
+31058,Mauk,Taylor,1798
+31049,Kite,Johnson,1769
+30177,Tate,Pickens,1759
+31077,Rhine,Dodge,1723
+31512,Ambrose,Coffee,1681
+31097,Yatesville,Upson,1681
+30552,Lakemont,Rabun,1640
+31022,Dudley,Laurens,1630
+31070,Pinehurst,Dooly,1590
+30631,Crawfordville,Taliaferro,1585
+31017,Danville,Twiggs,1579
+31638,Morven,Brooks,1573
+30413,Bartow,Jefferson,1547
+30619,Arnoldsville,Oglethorpe,1543
+30537,Dillard,Rabun,1539
+30568,Rabun Gap,Rabun,1531
+30660,Rayle,Wilkes,1515
+30575,Talmo,Jackson,1512
+31824,Preston,Webster,1507
+30234,Jenkinsburg,Butts,1480
+30452,Register,Bulloch,1477
+30446,Newington,Screven,1466
+31796,Warwick,Worth,1462
+31042,Irwinton,Wilkinson,1445
+31733,Chula,Tift,1435
+30522,Cherrylog,Gilmer,1430
+31787,Smithville,Lee,1418
+30678,White Plains,Greene,1390
+31020,Dry Branch,Twiggs,1382
+31314,Fort Stewart,Liberty,1378
+30823,Stapleton,Jefferson,1349
+31625,Barney,Brooks,1335
+31624,Axson,Atkinson,1329
+30541,Epworth,Fannin,1326
+30425,Garfield,Emanuel,1316
+31009,Cadwell,Laurens,1312
+31025,Elko,Houston,1312
+31323,Riceboro,Liberty,1295
+31054,Mc Intyre,Wilkinson,1294
+30420,Cobbtown,Tattnall,1278
+31307,Eden,Effingham,1275
+31066,Musella,Crawford,1257
+31090,Toomsboro,Wilkinson,1256
+31829,Upatoi,Muscogee,1251
+31547,Kings Bay,Camden,1219
+31065,Montrose,Laurens,1210
+31783,Rebecca,Turner,1208
+31563,Surrency,Appling,1183
+31649,Stockton,Lanier,1166
+31035,Harrison,Washington,1130
+31527,Jekyll Island,Glynn,1116
+30562,Mountain City,Rabun,1113
+31712,Arabi,Crisp,1109
+31207,Macon,Bibb,1074
+31629,Dixie,Brooks,1070
+30820,Mitchell,Glascock,1068
+31518,Bristol,Pierce,1064
+31072,Pitts,Wilcox,1060
+31756,Hartsfield,Colquitt,1048
+30803,Avera,Jefferson,1039
+31071,Pineview,Wilcox,1035
+31085,Shady Dale,Jasper,1035
+31836,Woodland,Talbot,993
+31789,Sumner,Worth,968
+31552,Millwood,Ware,965
+30545,Helen,White,949
+31007,Byromville,Dooly,941
+31567,West Green,Coffee,921
+31784,Sale City,Mitchell,892
+31041,Ideal,Macon,888
+31551,Mershon,Pierce,884
+30336,Atlanta,Fulton,876
+31409,Savannah,Chatham,873
+31050,Knoxville,Crawford,868
+30667,Stephens,Oglethorpe,851
+30572,Suches,Union,844
+31094,Warthen,Washington,844
+30426,Girard,Burke,831
+30821,Norwood,Warren,825
+31038,Hillsboro,Jasper,819
+31648,Statenville,Echols,816
+31798,Wray,Irwin,812
+30072,Pine Lake,Dekalb,806
+31698,Valdosta,Lowndes,770
+31550,Manor,Ware,762
+30746,Sugar Valley,Gordon,762
+31011,Chauncey,Dodge,753
+31711,Andersonville,Sumter,751
+31699,Valdosta,Lowndes,696
+31823,Pine Mountain Valley,Harris,690
+31812,Junction City,Talbot,682
+30285,The Rock,Upson,682
+30454,Rockledge,Laurens,670
+30250,Lovejoy,Clayton,667
+31630,Du Pont,Clinch,656
+30148,Marble Hill,Pickens,637
+30903,Augusta,Richmond,620
+31309,Fleming,Liberty,614
+30455,Rocky Ford,Screven,603
+31544,Jacksonville,Telfair,597
+31735,Cobb,Sumter,581
+31532,Denton,Jeff Davis,568
+31568,White Oak,Camden,529
+31772,Oakfield,Worth,522
+31631,Fargo,Clinch,493
+31722,Berlin,Colquitt,492
+31062,Milledgeville,Baldwin,475
+30818,Matthews,Jefferson,468
+30070,Porterdale,Newton,444
+30822,Perkins,Jenkins,434
+31083,Scotland,Telfair,433
+30812,Gracewood,Richmond,403
+31623,Argyle,Clinch,380
+31318,Meldrim,Effingham,369
+30423,Daisy,Evans,350
+31743,De Soto,Sumter,326
+30470,Tarrytown,Montgomery,305
+31720,Barwick,Brooks,285
+31067,Oconee,Washington,266
+31627,Cecil,Cook,229
+31821,Omaha,Stewart,227
+31832,Weston,Webster,222
+30573,Tallulah Falls,Rabun,218
+31051,Lilly,Dooly,209
+31810,Geneva,Talbot,206
+31747,Ellenton,Colquitt,200
+30807,Camak,Warren,199
+30429,Hagan,Evans,193
+30464,Stillmore,Emanuel,187
+30708,Cisco,Murray,172
+30751,Tennga,Murray,172
+30912,Augusta,Richmond,171
+30581,Wiley,Rabun,160
+31556,Offerman,Pierce,130
+30665,Siloam,Greene,115
+30449,Oliver,Screven,111
+31561,Sea Island,Glynn,102
+30275,Sargent,Coweta,95
+31003,Allentown,Wilkinson,82
+30284,Sunny Side,Spalding,81
+30448,Nunez,Emanuel,81
+30412,Alston,Montgomery,73
+31045,Jewell,Warren,62
+30756,Varnell,Whitfield,58
+30438,Manassas,Tattnall,57
+31814,Louvale,Stewart,55
+31327,Sapelo Island,Mcintosh,54
+30623,Bostwick,Morgan,48
+31084,Seville,Wilcox,45
+31304,Crescent,Mcintosh,41
+30289,Turin,Coweta,34
+30451,Pulaski,Candler,27
+30664,Sharon,Taliaferro,11
+31081,Rupert,Taylor,11
+30460,Statesboro,Bulloch,0
+30475,Vidalia,Toombs,0
+30164,Rome,Floyd,0
+31524,Brunswick,Glynn,0
+31213,Macon,Bibb,0
+31039,Howard,Taylor,0
+30726,Graysville,Catoosa,0
+30334,Atlanta,Fulton,0

@@ -1,0 +1,8 @@
+DROP TABLE IF EXISTS population;
+
+CREATE TABLE population (
+    zip  INTEGER DEFAULT NULL,
+    city VARCHAR DEFAULT NULL,
+    county VARCHAR DEFAULT NULL,
+    pop INTEGER DEFAULT NULL
+);
